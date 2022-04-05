@@ -1,0 +1,11 @@
+C:\Users\joaoa\source\repos\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\joaoa\source\repos\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\joaoa\source\repos\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\joaoa\source\repos\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\joaoa\source\repos\Cadastro\obj\Debug\Cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaoa\source\repos\Cadastro\obj\Debug\Cadastro.Form1.resources
+C:\Users\joaoa\source\repos\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\joaoa\source\repos\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\joaoa\source\repos\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\joaoa\source\repos\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\joaoa\source\repos\Cadastro\obj\Debug\Cadastro.pdb
